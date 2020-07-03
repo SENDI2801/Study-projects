@@ -5,17 +5,17 @@
 Описание данных:
 
 Файл retail_dataset.csv:
-* `purchaseId` — id чека
-* `item_ID` — id товара
-* `purchasedate` — дата покупки
-* `Quantity` — количество товара
-* `CustomerID` — id покупателя
-* `ShopID` — id магазина
-* `loyalty_program` — участвует ли покупатель в программе лояльности
+* purchaseId — id чека
+* item_ID — id товара
+* purchasedate — дата покупки
+* Quantity — количество товара
+* CustomerID — id покупателя
+* ShopID — id магазина
+* loyalty_program — участвует ли покупатель в программе лояльности
 
 Файл product_codes.csv:
-* `productID` — id товара
-* `price_per_one` — стоимость одной единицы товара
+* productID — id товара
+* price_per_one — стоимость одной единицы товара
 
 Основные шаги: предобработка данных, исследовательский анализ данных, анализ программы лояльности, проверка гипотез, рекомендации и выводы.
 Использованные библиотеки: pandas, matplotlib, scipy, seaborn, numpy.
